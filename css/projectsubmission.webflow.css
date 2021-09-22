@@ -590,7 +590,7 @@ blockquote {
   margin-top: 0px;
   margin-bottom: 20px;
   border-bottom: 1px solid #d6d3de;
-  font-family: 'Abril Fatface', sans-serif;
+  font-family: Roboto, sans-serif;
   color: #937394;
   font-size: 42px;
   letter-spacing: 3px;
@@ -604,7 +604,7 @@ blockquote {
   padding-right: 0px;
   padding-bottom: 0px;
   padding-left: 0px;
-  font-family: Lato, sans-serif;
+  font-family: Roboto, sans-serif;
   color: #474646;
   font-size: 18px;
   line-height: 25px;
@@ -1383,6 +1383,7 @@ blockquote {
 }
 
 .time-role-tool._60px-30-bottom-padding {
+  font-family: Roboto, sans-serif;
   color: #474646;
   font-size: 16px;
   line-height: 24px;
@@ -1494,19 +1495,20 @@ blockquote {
   margin-bottom: 0px;
   padding-bottom: 50px;
   padding-left: 30px;
-  font-family: Lato, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 20px;
   line-height: 32px;
   font-weight: 400;
 }
 
 ._50px-bottom-padding._100 {
-  font-family: Lato, sans-serif;
+  font-family: Roboto, sans-serif;
   color: #575757;
   font-size: 20px;
   line-height: 32px;
   font-style: normal;
   font-weight: 400;
+  white-space: normal;
 }
 
 ._50px-bottom-padding.slideshow-text {
@@ -4679,6 +4681,30 @@ blockquote {
 
 .image-27 {
   display: block;
+}
+
+.bold-text-2 {
+  color: #2a67e0;
+}
+
+.bold-text-3 {
+  color: #2a67e0;
+}
+
+.bold-text-4 {
+  color: #2a67e0;
+}
+
+.text-span-14 {
+  color: #2a67e0;
+}
+
+.text-span-15 {
+  color: #2a67e0;
+}
+
+.text-span-16 {
+  color: #2a67e0;
 }
 
 @media screen and (max-width: 991px) {
